@@ -1,3 +1,3 @@
 # springBoot
-This is my first repositiry
-Author - Saurav Singh
+This is my first repository
+Author - Saurav SinghI
